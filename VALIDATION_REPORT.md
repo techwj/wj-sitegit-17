@@ -1,0 +1,88 @@
+# Validation Report - western-brunch
+
+Generated: 2026-06-02T15:35:07.703303
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Western Brunch
+- ✓ Article word count OK: Beginner Western Brunch: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Western Brunch
+- ✓ Article word count OK: Beginner Western Brunch Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Western Brunch
+- ✓ Article word count OK: Beginner Western Brunch in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Western Brunch
+- ✓ Article word count OK: Common Mistakes in Beginner Western Brunch
+- ✓ Article word count OK: Beginner Western Brunch for Beginners
+- ✓ Article word count OK: Advanced Beginner Western Brunch Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Western Brunch
+- ✓ Article word count OK: Advanced Western Brunch: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Western Brunch
+- ✓ Article word count OK: Advanced Western Brunch Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Western Brunch
+- ✓ Article word count OK: Advanced Western Brunch in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Western Brunch
+- ✓ Article word count OK: Common Mistakes in Advanced Western Brunch
+- ✓ Article word count OK: Advanced Western Brunch for Beginners
+- ✓ Article word count OK: Advanced Advanced Western Brunch Techniques
+- ✓ Article word count OK: The Ultimate Guide to Western Brunch Tips
+- ✓ Article word count OK: Western Brunch Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Western Brunch Tips
+- ✓ Article word count OK: Western Brunch Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Western Brunch Tips
+- ✓ Article word count OK: Western Brunch Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Western Brunch Tips
+- ✓ Article word count OK: Common Mistakes in Western Brunch Tips
+- ✓ Article word count OK: Western Brunch Tips for Beginners
+- ✓ Article word count OK: Advanced Western Brunch Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Western Brunch History
+- ✓ Article word count OK: Western Brunch History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Western Brunch History
+- ✓ Article word count OK: Western Brunch History Tips and Best Practices
+- ✓ Article word count OK: The History of Western Brunch History
+- ✓ Article word count OK: Western Brunch History in 2026: Current Trends
+- ✓ Article word count OK: Future of Western Brunch History
+- ✓ Article word count OK: Common Mistakes in Western Brunch History
+- ✓ Article word count OK: Western Brunch History for Beginners
+- ✓ Article word count OK: Advanced Western Brunch History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Western Brunch
+- ✓ Article word count OK: Trending Western Brunch: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Western Brunch
+- ✓ Article word count OK: Trending Western Brunch Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Western Brunch
+- ✓ Article word count OK: Trending Western Brunch in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Western Brunch
+- ✓ Article word count OK: Common Mistakes in Trending Western Brunch
+- ✓ Article word count OK: Trending Western Brunch for Beginners
+- ✓ Article word count OK: Advanced Trending Western Brunch Techniques
+- ✓ Article word count OK: The Ultimate Guide to Western Brunch Tutorials
+- ✓ Article word count OK: Western Brunch Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Western Brunch Tutorials
+- ✓ Article word count OK: Western Brunch Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Western Brunch Tutorials
+- ✓ Article word count OK: Western Brunch Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Western Brunch Tutorials
+- ✓ Article word count OK: Common Mistakes in Western Brunch Tutorials
+- ✓ Article word count OK: Western Brunch Tutorials for Beginners
+- ✓ Article word count OK: Advanced Western Brunch Tutorials Techniques
+- ✓ Ad configuration validated

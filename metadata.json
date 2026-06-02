@@ -1,0 +1,59 @@
+{
+  "siteId": "western-brunch",
+  "generatedAt": "2026-06-02T15:35:07.703729",
+  "categories": [
+    "beginner-western-brunch",
+    "advanced-western-brunch",
+    "tips-western-brunch",
+    "history-western-brunch",
+    "trending-western-brunch",
+    "tutorials-western-brunch"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-western-brunch",
+      "category_name": "Beginner Western Brunch"
+    },
+    {
+      "category_slug": "advanced-western-brunch",
+      "category_name": "Advanced Western Brunch"
+    },
+    {
+      "category_slug": "tips-western-brunch",
+      "category_name": "Western Brunch Tips"
+    },
+    {
+      "category_slug": "history-western-brunch",
+      "category_name": "Western Brunch History"
+    },
+    {
+      "category_slug": "trending-western-brunch",
+      "category_name": "Trending Western Brunch"
+    },
+    {
+      "category_slug": "tutorials-western-brunch",
+      "category_name": "Western Brunch Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "western-brunch",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Western Brunch Central",
+    "articles_per_row": 1
+  }
+}
